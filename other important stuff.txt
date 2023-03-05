@@ -1,0 +1,3 @@
+to run in the virtual environment, use: 
+    1. pipenv run flask --app hello run --debug
+    2. pipenv run flask --app hello run
